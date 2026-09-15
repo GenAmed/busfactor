@@ -1,0 +1,40 @@
+# Continuous integration: on every push and pull request,
+#   1. validate the successor map (schema + registry lookups),
+#   2. run the unit tests,
+#   3. scan the example lockfile end to end (a "self-scan").
+# Runs on Node 20 and Node 22 so we know the CLI works on both.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: [20, 22]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Validate successors.json
+        run: npm run validate
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Self-scan (example lockfile)
+        run: |
+          node src/cli.js examples/package-lock.json --json --out report.json
+          node src/cli.js examples/package-lock.json --md --offline >> "$GITHUB_STEP_SUMMARY"
+          node src/cli.js examples/package-lock.json --svg --offline --out card.svg
+          test -s report.json && test -s card.svg

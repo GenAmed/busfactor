@@ -1,0 +1,7 @@
+# a comment
+requests==2.31.0
+Django>=4,<5 ; python_version >= "3.8"
+celery[redis]  # inline comment
+-r other.txt
+git+https://github.com/x/y.git#egg=y
+Pillow_Fork @ https://example.com/pillow.whl

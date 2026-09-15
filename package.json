@@ -1,0 +1,48 @@
+{
+  "name": "busfactor",
+  "version": "0.1.0",
+  "description": "Which humans does your project actually depend on? Scans a lockfile and reports dead, dormant and single-publisher dependencies, the people carrying them alone, and maintained successors.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "busfactor": "./src/cli.js"
+  },
+  "exports": {
+    ".": "./src/index.js",
+    "./successors": "./data/successors.json",
+    "./schema": "./data/schema.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "src/",
+    "data/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate.mjs",
+    "scan": "node src/cli.js",
+    "self-scan": "node src/cli.js examples/package-lock.json --md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benhamadi/busfactor"
+  },
+  "keywords": [
+    "bus-factor",
+    "supply-chain",
+    "maintainers",
+    "dependencies",
+    "lockfile",
+    "sustainability"
+  ],
+  "author": "Ahmed Benhamadi",
+  "contributors": [
+    "Ahmed Benhamadi (maintainer)",
+    "<second maintainer wanted, see GOVERNANCE.md>"
+  ]
+}

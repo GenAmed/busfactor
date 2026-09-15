@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="800" height="420" rx="16" fill="#111827"/>
+  <text x="40" y="52" font-size="22" font-weight="700" fill="#f9fafb">busfactor</text>
+  <text x="180" y="52" font-size="16" fill="#9ca3af">package-lock.json</text>
+  <text x="760" y="52" font-size="13" fill="#6b7280" text-anchor="end">2026-09-15</text>
+  <line x1="40" y1="68" x2="760" y2="68" stroke="#374151"/>
+
+    <text x="40" y="130" font-size="44" font-weight="700" fill="#e5e7eb">410</text>
+    <text x="40" y="158" font-size="15" fill="#9ca3af">packages</text>
+    <text x="225" y="130" font-size="44" font-weight="700" fill="#f87171">4</text>
+    <text x="225" y="158" font-size="15" fill="#9ca3af">dead</text>
+    <text x="410" y="130" font-size="44" font-weight="700" fill="#fbbf24">51</text>
+    <text x="410" y="158" font-size="15" fill="#9ca3af">dormant</text>
+    <text x="595" y="130" font-size="44" font-weight="700" fill="#fbbf24">51%</text>
+    <text x="595" y="158" font-size="15" fill="#9ca3af">single publisher</text>
+  <text x="40" y="200" font-size="15" font-weight="600" fill="#f9fafb">Humans this project depends on most (packages carried alone)</text>
+
+    <text x="40" y="240" font-size="15" fill="#e5e7eb">sindresorhus</text>
+    <rect x="300" y="225" width="300" height="20" rx="4" fill="#60a5fa"/>
+    <text x="610" y="240" font-size="14" fill="#9ca3af">43 alone / 46 total</text>
+    <text x="40" y="272" font-size="15" fill="#e5e7eb">jounqin</text>
+    <rect x="300" y="257" width="181" height="20" rx="4" fill="#60a5fa"/>
+    <text x="491" y="272" font-size="14" fill="#9ca3af">26 alone / 26 total</text>
+    <text x="40" y="304" font-size="15" fill="#e5e7eb">ljharb</text>
+    <rect x="300" y="289" width="119" height="20" rx="4" fill="#60a5fa"/>
+    <text x="429" y="304" font-size="14" fill="#9ca3af">17 alone / 23 total</text>
+    <text x="40" y="336" font-size="15" fill="#e5e7eb">xtuc</text>
+    <rect x="300" y="321" width="119" height="20" rx="4" fill="#60a5fa"/>
+    <text x="429" y="336" font-size="14" fill="#9ca3af">17 alone / 17 total</text>
+    <text x="40" y="368" font-size="15" fill="#e5e7eb">isaacs</text>
+    <rect x="300" y="353" width="98" height="20" rx="4" fill="#60a5fa"/>
+    <text x="408" y="368" font-size="14" fill="#9ca3af">14 alone / 18 total</text>
+  <text x="40" y="400" font-size="12" fill="#6b7280">github.com/benhamadi/busfactor - data: packages.ecosyste.ms - a publisher account is not always an active person</text>
+</svg>

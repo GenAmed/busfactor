@@ -1,0 +1,441 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "entries": [
+    {
+      "ecosystem": "npm",
+      "package": "request",
+      "status": "deprecated",
+      "successor": "undici",
+      "successor_kind": "different-api",
+      "since": "2020-02",
+      "sources": [
+        "https://registry.npmjs.org/request",
+        "https://github.com/request/request/issues/3142"
+      ],
+      "notes": "Fully deprecated on npm since February 2020. undici (the HTTP client behind Node's global fetch) is the usual replacement; the API is different."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "node-sass",
+      "status": "deprecated",
+      "successor": "sass",
+      "successor_kind": "rewrite",
+      "since": "2020-10",
+      "sources": [
+        "https://registry.npmjs.org/node-sass",
+        "https://sass-lang.com/blog/libsass-is-deprecated/"
+      ],
+      "notes": "npm deprecation message: 'Node Sass is no longer supported. Please use sass or sass-embedded instead.' The sass package is the reference Dart implementation."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "inflight",
+      "status": "deprecated",
+      "successor": null,
+      "successor_kind": null,
+      "sources": [
+        "https://registry.npmjs.org/inflight",
+        "https://packages.ecosyste.ms/api/v1/registries/npmjs.org/packages/inflight"
+      ],
+      "notes": "npm deprecation message says the module leaks memory and must not be used. Remove it; if you need to coalesce async requests by key, lru-cache is the suggested replacement."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "colors",
+      "status": "sabotaged",
+      "successor": "picocolors",
+      "successor_kind": "different-api",
+      "since": "2022-01",
+      "sources": [
+        "https://osv.dev/vulnerability/GHSA-gh88-3pxp-6fm8",
+        "https://registry.npmjs.org/colors"
+      ],
+      "notes": "In January 2022 the maintainer published versions containing an infinite loop on purpose. The last safe version is 1.4.0 (pin it if you must stay); picocolors is a small maintained alternative with a different API."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "faker",
+      "status": "sabotaged",
+      "successor": "@faker-js/faker",
+      "successor_kind": "fork",
+      "since": "2022-01",
+      "sources": [
+        "https://osv.dev/vulnerability/GHSA-5w9c-rv96-fr7g",
+        "https://registry.npmjs.org/faker"
+      ],
+      "notes": "The maintainer deliberately removed the functional code in version 6.6.6. The community fork @faker-js/faker continues the project."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "tslint",
+      "status": "deprecated",
+      "successor": "typescript-eslint",
+      "successor_kind": "different-api",
+      "sources": [
+        "https://registry.npmjs.org/tslint",
+        "https://github.com/palantir/tslint/issues/4534"
+      ],
+      "notes": "npm deprecation message: 'TSLint has been deprecated in favor of ESLint.' The repository is archived. Use ESLint with typescript-eslint."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "moment",
+      "status": "deprecated",
+      "successor": "luxon",
+      "successor_kind": "different-api",
+      "since": "2020-09",
+      "sources": [
+        "https://momentjs.com/docs/#/-project-status/",
+        "https://raw.githubusercontent.com/moment/moment/develop/README.md"
+      ],
+      "notes": "The maintainers describe Moment as 'a legacy project in maintenance mode' and recommend alternatives for new projects: luxon (from the same team), date-fns, dayjs or the Temporal API. Existing code keeps working."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "optimist",
+      "status": "deprecated",
+      "successor": "yargs",
+      "successor_kind": "different-api",
+      "sources": [
+        "https://registry.npmjs.org/optimist"
+      ],
+      "notes": "The README on npm opens with a DEPRECATION NOTICE from the author and points to yargs as the successor. Last release 2014."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "har-validator",
+      "status": "deprecated",
+      "successor": null,
+      "successor_kind": null,
+      "sources": [
+        "https://registry.npmjs.org/har-validator"
+      ],
+      "notes": "npm deprecation message: 'this library is no longer supported'. It is almost always pulled in by request; removing request removes it."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "fstream",
+      "status": "deprecated",
+      "successor": null,
+      "successor_kind": null,
+      "sources": [
+        "https://registry.npmjs.org/fstream",
+        "https://packages.ecosyste.ms/api/v1/registries/npmjs.org/packages/fstream"
+      ],
+      "notes": "npm deprecation message: 'This package is no longer supported.' Repository archived. Node's fs and stream modules cover the same needs today."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "ip",
+      "status": "unmaintained",
+      "successor": null,
+      "successor_kind": null,
+      "since": "2024-06",
+      "sources": [
+        "https://osv.dev/vulnerability/GHSA-2p57-rm9w-gvfp",
+        "https://registry.npmjs.org/ip"
+      ],
+      "notes": "CVE-2024-29415 (SSRF via isPublic) affects every published version including the latest 2.0.1 and has no fixed release. Node's built-in net module covers isIP/isIPv4/isIPv6; for private-range checks use a maintained library."
+    },
+    {
+      "ecosystem": "npm",
+      "package": "through",
+      "status": "archived",
+      "successor": null,
+      "successor_kind": "stdlib",
+      "sources": [
+        "https://packages.ecosyste.ms/api/v1/registries/npmjs.org/packages/through",
+        "https://registry.npmjs.org/through"
+      ],
+      "notes": "Repository archived; last release 2015. Node's stream.Transform (and stream.pipeline) do the same job without a dependency."
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "nose",
+      "status": "unmaintained",
+      "successor": "pynose",
+      "successor_kind": "fork",
+      "since": "2015-06",
+      "sources": [
+        "https://pypi.org/project/nose/",
+        "https://pypi.org/project/pynose/"
+      ],
+      "notes": "Last release 1.3.7 in June 2015; it does not run on recent Python versions. pynose is a maintained fork that keeps the nose command-line and API; pytest is the mainstream alternative."
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "appdirs",
+      "status": "deprecated",
+      "successor": "platformdirs",
+      "successor_kind": "fork",
+      "sources": [
+        "https://raw.githubusercontent.com/ActiveState/appdirs/master/README.rst",
+        "https://pypi.org/project/platformdirs/"
+      ],
+      "notes": "README: 'This project has been officially deprecated. You may want to check out platformdirs which is a more active fork of appdirs.'"
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "toml",
+      "status": "unmaintained",
+      "successor": "tomli",
+      "successor_kind": "rewrite",
+      "sources": [
+        "https://peps.python.org/pep-0680/",
+        "https://pypi.org/project/toml/"
+      ],
+      "notes": "PEP 680 states that toml 'is not actively maintained, does not support TOML 1.0.0 and has a number of known bugs'. Use tomllib (standard library, Python 3.11+) or tomli on older versions; tomli-w for writing."
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "docopt",
+      "status": "unmaintained",
+      "successor": "docopt-ng",
+      "successor_kind": "fork",
+      "sources": [
+        "https://pypi.org/project/docopt/",
+        "https://pypi.org/project/docopt-ng/"
+      ],
+      "notes": "Last release 0.6.2 in 2014. docopt-ng is 'a fork of the original docopt, now maintained by the jazzband community' with the same usage-string API."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "paste",
+      "status": "unmaintained",
+      "successor": "pastey",
+      "successor_kind": "fork",
+      "since": "2024-10",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2024-0436.html",
+        "https://crates.io/crates/pastey"
+      ],
+      "notes": "RUSTSEC-2024-0436: 'paste - no longer maintained'; the repository is archived. pastey describes itself as the successor of paste and is a drop-in fork."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "serde_yaml",
+      "status": "unmaintained",
+      "successor": "serde_yaml_ng",
+      "successor_kind": "fork",
+      "since": "2024-03",
+      "sources": [
+        "https://crates.io/crates/serde_yaml",
+        "https://raw.githubusercontent.com/dtolnay/serde-yaml/master/README.md"
+      ],
+      "notes": "The last release is literally named 0.9.34+deprecated and the README says the project is no longer maintained. serde_yaml_ng is a fork from the last commit."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "proc-macro-error",
+      "status": "unmaintained",
+      "successor": "proc-macro-error2",
+      "successor_kind": "fork",
+      "since": "2024-09",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2024-0370.html",
+        "https://crates.io/crates/proc-macro-error2"
+      ],
+      "notes": "RUSTSEC-2024-0370: unmaintained since 2020, also pulls in the unmaintained syn 1. proc-macro-error2 is a maintained fork with the same API."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "atty",
+      "status": "unmaintained",
+      "successor": "std::io::IsTerminal",
+      "successor_kind": "stdlib",
+      "since": "2024-09",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2024-0375.html",
+        "https://raw.githubusercontent.com/softprops/atty/master/README.md"
+      ],
+      "notes": "RUSTSEC-2024-0375: the maintainer published an official notice that the crate is no longer under development. std::io::IsTerminal (Rust 1.70+) replaces it."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "instant",
+      "status": "unmaintained",
+      "successor": "web-time",
+      "successor_kind": "rewrite",
+      "since": "2024-09",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2024-0384.html",
+        "https://crates.io/crates/instant"
+      ],
+      "notes": "The crate description itself says 'Unmaintained, consider using web-time instead'. web-time is a drop-in std::time replacement for Wasm in browsers."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "yaml-rust",
+      "status": "unmaintained",
+      "successor": "yaml-rust2",
+      "successor_kind": "fork",
+      "since": "2024-03",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2024-0320.html",
+        "https://crates.io/crates/yaml-rust2"
+      ],
+      "notes": "RUSTSEC-2024-0320: 'yaml-rust is unmaintained'. yaml-rust2 is a fully YAML 1.2 compliant fork."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "ansi_term",
+      "status": "unmaintained",
+      "successor": "nu-ansi-term",
+      "successor_kind": "fork",
+      "since": "2021-08",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2021-0139.html",
+        "https://crates.io/crates/nu-ansi-term"
+      ],
+      "notes": "RUSTSEC-2021-0139: 'ansi_term is Unmaintained'. nu-ansi-term, maintained by the Nushell team, is the fork the advisory lists."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "derivative",
+      "status": "unmaintained",
+      "successor": "derive_more",
+      "successor_kind": "different-api",
+      "since": "2024-06",
+      "sources": [
+        "https://rustsec.org/advisories/RUSTSEC-2024-0388.html",
+        "https://crates.io/crates/derive_more"
+      ],
+      "notes": "RUSTSEC-2024-0388: 'derivative is unmaintained; consider using an alternative'. derive_more and educe cover the same derives with different attribute syntax."
+    },
+    {
+      "ecosystem": "cargo",
+      "package": "rustc-serialize",
+      "status": "deprecated",
+      "successor": "serde",
+      "successor_kind": "different-api",
+      "sources": [
+        "https://raw.githubusercontent.com/rust-lang/rustc-serialize/master/README.md",
+        "https://packages.ecosyste.ms/api/v1/registries/crates.io/packages/rustc-serialize"
+      ],
+      "notes": "README: 'This crate is deprecated in favor of serde.' Repository archived. serde + serde_json replace it."
+    },
+    {
+      "ecosystem": "go",
+      "package": "gopkg.in/yaml.v3",
+      "status": "unmaintained",
+      "successor": "go.yaml.in/yaml/v3",
+      "successor_kind": "fork",
+      "sources": [
+        "https://raw.githubusercontent.com/go-yaml/yaml/v3/README.md",
+        "https://pkg.go.dev/go.yaml.in/yaml/v3"
+      ],
+      "notes": "README: 'THIS PROJECT IS UNMAINTAINED'; the repository is archived. go.yaml.in/yaml/v3 is the fork adopted by the YAML organisation; github.com/goccy/go-yaml is an independent alternative."
+    },
+    {
+      "ecosystem": "go",
+      "package": "github.com/mitchellh/mapstructure",
+      "status": "archived",
+      "successor": "github.com/go-viper/mapstructure/v2",
+      "successor_kind": "fork",
+      "sources": [
+        "https://raw.githubusercontent.com/go-viper/mapstructure/main/README.md",
+        "https://packages.ecosyste.ms/api/v1/registries/proxy.golang.org/packages/github.com%2Fmitchellh%2Fmapstructure"
+      ],
+      "notes": "The author archived several of his unmaintained projects; go-viper/mapstructure/v2 is the fork that documents the migration (a one-line import rewrite)."
+    },
+    {
+      "ecosystem": "go",
+      "package": "github.com/mitchellh/cli",
+      "status": "archived",
+      "successor": "github.com/hashicorp/cli",
+      "successor_kind": "fork",
+      "sources": [
+        "https://raw.githubusercontent.com/mitchellh/cli/main/README.md",
+        "https://pkg.go.dev/github.com/hashicorp/cli"
+      ],
+      "notes": "README: 'This project is archived.' HashiCorp maintains the fork under its own organisation."
+    },
+    {
+      "ecosystem": "go",
+      "package": "github.com/golang/mock",
+      "status": "archived",
+      "successor": "go.uber.org/mock",
+      "successor_kind": "fork",
+      "since": "2023-06",
+      "sources": [
+        "https://raw.githubusercontent.com/golang/mock/main/README.md",
+        "https://pkg.go.dev/go.uber.org/mock"
+      ],
+      "notes": "README: 'Update, June 2023: This repo and tool are no longer maintained. Please see go.uber.org/mock for a maintained fork instead.'"
+    },
+    {
+      "ecosystem": "go",
+      "package": "github.com/dgrijalva/jwt-go",
+      "status": "archived",
+      "successor": "github.com/golang-jwt/jwt/v5",
+      "successor_kind": "fork",
+      "sources": [
+        "https://raw.githubusercontent.com/dgrijalva/jwt-go/master/README.md",
+        "https://pkg.go.dev/github.com/golang-jwt/jwt/v5"
+      ],
+      "notes": "README: 'THIS REPOSITORY IS NO LONGER MAINTAINED'; it also has an unfixed vulnerability (CVE-2020-26160). golang-jwt/jwt is the community fork endorsed by the original author."
+    },
+    {
+      "ecosystem": "go",
+      "package": "github.com/pkg/errors",
+      "status": "unmaintained",
+      "successor": "errors",
+      "successor_kind": "stdlib",
+      "sources": [
+        "https://raw.githubusercontent.com/pkg/errors/master/README.md",
+        "https://pkg.go.dev/github.com/pkg/errors"
+      ],
+      "notes": "README: 'this package is moving into maintenance mode' and 'is not accepting proposals for new functionality'; last release 2020. Go 1.13+ errors (fmt.Errorf with %w, errors.Is/As) covers wrapping."
+    },
+    {
+      "ecosystem": "packagist",
+      "package": "swiftmailer/swiftmailer",
+      "status": "abandoned",
+      "successor": "symfony/mailer",
+      "successor_kind": "different-api",
+      "since": "2021-11",
+      "sources": [
+        "https://packagist.org/packages/swiftmailer/swiftmailer",
+        "https://raw.githubusercontent.com/swiftmailer/swiftmailer/master/README.md"
+      ],
+      "notes": "Marked abandoned on Packagist with symfony/mailer as the declared replacement. README: 'Swiftmailer will stop being maintained at the end of November 2021.'"
+    },
+    {
+      "ecosystem": "packagist",
+      "package": "fzaninotto/faker",
+      "status": "abandoned",
+      "successor": "fakerphp/faker",
+      "successor_kind": "fork",
+      "sources": [
+        "https://packagist.org/packages/fzaninotto/faker",
+        "https://packagist.org/packages/fakerphp/faker"
+      ],
+      "notes": "Marked abandoned on Packagist and the repository is archived. fakerphp/faker is the community fork that continued from the same code base."
+    },
+    {
+      "ecosystem": "packagist",
+      "package": "doctrine/annotations",
+      "status": "abandoned",
+      "successor": null,
+      "successor_kind": "different-api",
+      "sources": [
+        "https://packagist.org/packages/doctrine/annotations",
+        "https://raw.githubusercontent.com/doctrine/annotations/2.0.x/README.md"
+      ],
+      "notes": "Marked abandoned on Packagist. README: PHP 8 attributes 'are a native replacement for annotations'. Migrate docblock annotations to attributes."
+    },
+    {
+      "ecosystem": "packagist",
+      "package": "doctrine/cache",
+      "status": "abandoned",
+      "successor": "symfony/cache",
+      "successor_kind": "different-api",
+      "sources": [
+        "https://packagist.org/packages/doctrine/cache",
+        "https://raw.githubusercontent.com/doctrine/cache/2.2.x/README.md"
+      ],
+      "notes": "Marked abandoned on Packagist. README: 'This library is deprecated and will no longer receive bug fixes'; use a PSR-6 or PSR-16 implementation such as symfony/cache."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+# Weekly re-validation of the successor map.
+# Packages get renamed or removed from registries; when a lookup starts
+# failing this workflow opens (or updates) an issue so a human can fix the entry.
+name: Revalidate successor map
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # every Monday 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  revalidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validate successors.json
+        id: validate
+        continue-on-error: true
+        run: node scripts/validate.mjs 2>&1 | tee validate.log
+
+      - name: Open or update an issue on failure
+        if: steps.validate.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const log = fs.readFileSync("validate.log", "utf8").slice(-6000);
+            const title = "Weekly revalidation of data/successors.json failed";
+            const body = [
+              "The scheduled run of `scripts/validate.mjs` failed.",
+              "A package or successor may have been renamed or removed from its registry.",
+              "",
+              `Run: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              "",
+              "```",
+              log,
+              "```",
+            ].join("\n");
+            const { data: issues } = await github.rest.issues.listForRepo({
+              ...context.repo, state: "open", labels: "revalidation",
+            });
+            const existing = issues.find((i) => i.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({ ...context.repo, issue_number: existing.number, body });
+            } else {
+              await github.rest.issues.create({ ...context.repo, title, body, labels: ["revalidation"] });
+            }
+
+      - name: Fail the job if validation failed
+        if: steps.validate.outcome == 'failure'
+        run: exit 1

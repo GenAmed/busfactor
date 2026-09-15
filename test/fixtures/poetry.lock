@@ -1,0 +1,13 @@
+[[package]]
+name = "requests"
+version = "2.31.0"
+
+[package.extras]
+socks = ["PySocks"]
+
+[[package]]
+name = "Typing_Extensions"
+version = "4.0.0"
+
+[metadata]
+lock-version = "2.0"
