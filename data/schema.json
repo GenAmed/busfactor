@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/benhamadi/busfactor/main/data/schema.json",
+  "$id": "https://raw.githubusercontent.com/GenAmed/busfactor/main/data/schema.json",
   "title": "busfactor successor map",
   "description": "A list of packages that are no longer maintained, each with a sourced pointer to what people should use instead. One object per (ecosystem, package) pair.",
   "type": "object",

@@ -106,7 +106,7 @@ package and successor still exists on its registry.
 
 Ways to consume it:
 
-- **Raw URL**: `https://raw.githubusercontent.com/benhamadi/busfactor/main/data/successors.json`
+- **Raw URL**: `https://raw.githubusercontent.com/GenAmed/busfactor/main/data/successors.json`
 - **npm subpath export** (no CLI involved):
   ```js
   import successors from "busfactor/successors" with { type: "json" };
@@ -123,7 +123,7 @@ then say what to do.
 ## GitHub Action
 
 ```yaml
-- uses: benhamadi/busfactor@main
+- uses: GenAmed/busfactor@main
   with:
     path: .            # folder or lockfile
     fail-on: ""        # "", "dead" or "solo-critical"
@@ -133,7 +133,7 @@ The markdown card lands in the job summary. To also post it as a PR comment,
 add a step with `actions/github-script` that reads the `markdown-file` output:
 
 ```yaml
-- uses: benhamadi/busfactor@main
+- uses: GenAmed/busfactor@main
   id: busfactor
 - uses: actions/github-script@v7
   if: github.event_name == 'pull_request'

@@ -19,7 +19,7 @@ import { checkSchema } from "./lib/mini-schema.mjs";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const dataFile = path.join(here, "..", "data", "successors.json");
 const schemaFile = path.join(here, "..", "data", "schema.json");
-const USER_AGENT = "busfactor/0.1 (+https://github.com/benhamadi/busfactor)";
+const USER_AGENT = "busfactor/0.1 (+https://github.com/GenAmed/busfactor)";
 const CONCURRENCY = 4; // be polite to registries
 const withNetwork = !process.argv.includes("--no-network");
 

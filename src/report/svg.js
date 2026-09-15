@@ -55,7 +55,7 @@ export function renderSvg(result, { top = 5 } = {}) {
 ${statsSvg}
   <text x="40" y="200" font-size="15" font-weight="600" fill="#f9fafb">${esc(humansTitle)}</text>
 ${rows}
-  <text x="40" y="${H - 20}" font-size="12" fill="#6b7280">github.com/benhamadi/busfactor - data: packages.ecosyste.ms - a publisher account is not always an active person</text>
+  <text x="40" y="${H - 20}" font-size="12" fill="#6b7280">github.com/GenAmed/busfactor - data: packages.ecosyste.ms - a publisher account is not always an active person</text>
 </svg>
 `;
 }

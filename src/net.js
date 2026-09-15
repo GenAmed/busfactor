@@ -3,7 +3,7 @@
 
 import { readCache, writeCache } from "./cache.js";
 
-export const USER_AGENT = "busfactor/0.1 (+https://github.com/benhamadi/busfactor)";
+export const USER_AGENT = "busfactor/0.1 (+https://github.com/GenAmed/busfactor)";
 export const CONCURRENCY = 4; // ecosyste.ms asks for at most 4 parallel requests
 
 // Fetch a JSON document. Returns:

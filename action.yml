@@ -3,7 +3,7 @@
 # optional PR comment.
 name: busfactor
 description: "Which humans does your project actually depend on? Scans the lockfile and reports dead, dormant and single-publisher dependencies."
-author: benhamadi
+author: GenAmed
 
 inputs:
   path:
