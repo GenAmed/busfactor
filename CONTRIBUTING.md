@@ -60,6 +60,6 @@ comment at the top saying what it does. To add, say, Gemfile.lock:
 ## Reporting a wrong result
 
 If busfactor says a package is dead or solo and it is not, open an issue with
-the package name and the output of `npx busfactor --json` for a lockfile that
+the package name and the output of `npx @genamed/busfactor --json` for a lockfile that
 contains only that package. Most of the time the fix is on the data side
 (ecosyste.ms), and we will say so.

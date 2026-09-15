@@ -8,7 +8,7 @@ carrying the most of them alone (with a sponsor link when there is one), and
 which packages already have a maintained successor.
 
 ```text
-$ npx busfactor
+$ npx @genamed/busfactor
 
 busfactor - 410 packages in package-lock.json
 
@@ -42,22 +42,22 @@ The full run is in [`examples/sample-output.md`](examples/sample-output.md).
    a pointer to what to use instead. This is the durable asset: it is meant
    to be read by other tools, not just by this CLI. See
    [Using the successor map](#using-the-successor-map).
-2. **The CLI** - `npx busfactor`. Zero runtime dependencies, Node 20+.
+2. **The CLI** - `npx @genamed/busfactor`. Zero runtime dependencies, Node 20+.
 
 ## Install and use
 
 ```sh
-npx busfactor                      # scan the lockfile in the current folder
-npx busfactor path/to/project      # or a folder, or a lockfile path
-npx busfactor --md                 # markdown card for a README or a PR
-npx busfactor --svg --out card.svg # 800x420 shareable card
-npx busfactor --json               # everything, machine-readable
-npx busfactor --offline            # cache only, no network
-npx busfactor --fail-on dead       # exit 1 if any dependency is dead (CI)
-npx busfactor --fail-on solo-critical  # exit 1 if a dead/dormant package has one publisher
+npx @genamed/busfactor                      # scan the lockfile in the current folder
+npx @genamed/busfactor path/to/project      # or a folder, or a lockfile path
+npx @genamed/busfactor --md                 # markdown card for a README or a PR
+npx @genamed/busfactor --svg --out card.svg # 800x420 shareable card
+npx @genamed/busfactor --json               # everything, machine-readable
+npx @genamed/busfactor --offline            # cache only, no network
+npx @genamed/busfactor --fail-on dead       # exit 1 if any dependency is dead (CI)
+npx @genamed/busfactor --fail-on solo-critical  # exit 1 if a dead/dormant package has one publisher
 ```
 
-Or install it: `npm install -g busfactor`.
+Or install it: `npm install -g @genamed/busfactor`.
 
 Supported lockfiles in v0:
 
@@ -109,7 +109,7 @@ Ways to consume it:
 - **Raw URL**: `https://raw.githubusercontent.com/GenAmed/busfactor/main/data/successors.json`
 - **npm subpath export** (no CLI involved):
   ```js
-  import successors from "busfactor/successors" with { type: "json" };
+  import successors from "@genamed/busfactor/successors" with { type: "json" };
   const dead = successors.entries.filter((e) => e.ecosystem === "npm");
   ```
 - **Library**: `import { scan, matchSuccessors } from "busfactor"`.

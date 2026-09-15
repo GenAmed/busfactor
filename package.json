@@ -1,5 +1,5 @@
 {
-  "name": "busfactor",
+  "name": "@genamed/busfactor",
   "version": "0.1.0",
   "description": "Which humans does your project actually depend on? Scans a lockfile and reports dead, dormant and single-publisher dependencies, the people carrying them alone, and maintained successors.",
   "license": "MIT",
@@ -44,5 +44,8 @@
   "contributors": [
     "Ahmed Benhamadi (maintainer)",
     "<second maintainer wanted, see GOVERNANCE.md>"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
