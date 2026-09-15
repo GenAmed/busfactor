@@ -1,0 +1,4202 @@
+[
+ {
+  "full_name": "freeCodeCamp/freeCodeCamp",
+  "stars": 455503,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "openclaw/openclaw",
+  "stars": 389785,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nilbuild/developer-roadmap",
+  "stars": 367307,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "affaan-m/ECC",
+  "stars": 259262,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "react/react",
+  "stars": 250473,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "deepseek-ai/deepseek-harness",
+  "stars": 225307,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuejs/vue",
+  "stars": 212804,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "anomalyco/opencode",
+  "stars": 207656,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "n8n-io/n8n",
+  "stars": 204429,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "trekhleb/javascript-algorithms",
+  "stars": 196729,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/vscode",
+  "stars": 192567,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "firecrawl/firecrawl",
+  "stars": 180848,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Snailclimb/JavaGuide",
+  "stars": 158581,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "langgenius/dify",
+  "stars": 155848,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "airbnb/javascript",
+  "stars": 148235,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "anthropics/claude-code",
+  "stars": 145191,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "yangshun/tech-interview-handbook",
+  "stars": 142683,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel/next.js",
+  "stars": 142332,
+  "branch": "canary",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "DietrichGebert/ponytail",
+  "stars": 139332,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "iptv-org/iptv",
+  "stars": 138712,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "garrytan/gstack",
+  "stars": 133225,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "excalidraw/excalidraw",
+  "stars": 132038,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Chalarangelo/30-seconds-of-code",
+  "stars": 129100,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "shadcn-ui/ui",
+  "stars": 123881,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nodejs/node",
+  "stars": 121963,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mrdoob/three.js",
+  "stars": 115563,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "immich-app/immich",
+  "stars": 114288,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "supabase/supabase",
+  "stars": 109325,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "axios/axios",
+  "stars": 109208,
+  "branch": "v1.x",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "google-gemini/gemini-cli",
+  "stars": 107006,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "earendil-works/pi",
+  "stars": 105651,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "react/create-react-app",
+  "stars": 103259,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "angular/angular",
+  "stars": 101008,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ant-design/ant-design",
+  "stars": 99511,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mui/material-ui",
+  "stars": 99047,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "tailwindlabs/tailwindcss",
+  "stars": 97570,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/Web-Dev-For-Beginners",
+  "stars": 96685,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nexu-io/open-design",
+  "stars": 96374,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/playwright",
+  "stars": 96181,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "puppeteer/puppeteer",
+  "stars": 95580,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ryanmcdermott/clean-code-javascript",
+  "stars": 94762,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "addyosmani/agent-skills",
+  "stars": 94727,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "thedotmack/claude-mem",
+  "stars": 93972,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Stirling-Tools/Stirling-PDF",
+  "stars": 92220,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "louislam/uptime-kuma",
+  "stars": 91402,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "storybookjs/storybook",
+  "stars": 91063,
+  "branch": "next",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "modelcontextprotocol/servers",
+  "stars": 90364,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mermaid-js/mermaid",
+  "stars": 90254,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "OpenCut-app/OpenCut",
+  "stars": 89516,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ChatGPTNextWeb/NextChat",
+  "stars": 88769,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "sveltejs/svelte",
+  "stars": 88131,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "OpenHands/OpenHands",
+  "stars": 88035,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Leonxlnx/taste-skill",
+  "stars": 87407,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "koala73/worldmonitor",
+  "stars": 86461,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "realworld-apps/realworld",
+  "stars": 84211,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Egonex-AI/Understand-Anything",
+  "stars": 82969,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vitejs/vite",
+  "stars": 82842,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "lobehub/lobehub",
+  "stars": 82508,
+  "branch": "canary",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "paperclipai/paperclip",
+  "stars": 80756,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "hoppscotch/hoppscotch",
+  "stars": 80310,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "anuraghazra/github-readme-stats",
+  "stars": 79834,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "coder/code-server",
+  "stars": 79306,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "FortAwesome/Font-Awesome",
+  "stars": 76923,
+  "branch": "7.x",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "grafana/grafana",
+  "stars": 76765,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nestjs/nest",
+  "stars": 76669,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "typicode/json-server",
+  "stars": 75709,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Eugeny/tabby",
+  "stars": 74507,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "strapi/strapi",
+  "stars": 73167,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "juliangarnier/anime",
+  "stars": 72848,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "toeverything/AFFiNE",
+  "stars": 72633,
+  "branch": "canary",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ruvnet/ruflo",
+  "stars": 72545,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "hakimel/reveal.js",
+  "stars": 72297,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "career-ops-hq/career-ops",
+  "stars": 71732,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "stablyai/orca",
+  "stars": 69474,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "expressjs/express",
+  "stars": 69450,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "code-yeongyu/oh-my-openagent",
+  "stars": 69074,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Fission-AI/OpenSpec",
+  "stars": 68381,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pbakaus/impeccable",
+  "stars": 68277,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "cline/cline",
+  "stars": 68127,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "gorhill/uBlock",
+  "stars": 67868,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "chartjs/Chart.js",
+  "stars": 67696,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "apache/echarts",
+  "stars": 67327,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "asgeirtj/system_prompts_leaks",
+  "stars": 67158,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "diegosouzapw/OmniRoute",
+  "stars": 66600,
+  "branch": "release/v3.8.51",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "leonardomso/33-js-concepts",
+  "stars": 66522,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "facebook/docusaurus",
+  "stars": 66248,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Mintplex-Labs/anything-llm",
+  "stars": 66072,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "webpack/webpack",
+  "stars": 65949,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nocodb/nocodb",
+  "stars": 64979,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "gsd-build/get-shit-done",
+  "stars": 64530,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "tt-a1i/archify",
+  "stars": 63466,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "socketio/socket.io",
+  "stars": 63197,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jgraph/drawio-desktop",
+  "stars": 63129,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "resume/resume.github.com",
+  "stars": 62896,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "byoungd/up",
+  "stars": 62796,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "withastro/astro",
+  "stars": 62598,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "upstash/context7",
+  "stars": 62063,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "reduxjs/redux",
+  "stars": 61486,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "marktext/marktext",
+  "stars": 61460,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "lodash/lodash",
+  "stars": 61279,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nuxt/nuxt",
+  "stars": 60866,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "atom/atom",
+  "stars": 60735,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "adam-p/markdown-here",
+  "stars": 60251,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "jquery/jquery",
+  "stars": 59774,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "makeplane/plane",
+  "stars": 59443,
+  "branch": "preview",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "remotion-dev/remotion",
+  "stars": 59385,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pmndrs/zustand",
+  "stars": 58690,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "angular/angular.js",
+  "stars": 58511,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "scutan90/DeepLearning-500-questions",
+  "stars": 57625,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "h5bp/html5-boilerplate",
+  "stars": 57621,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "appwrite/appwrite",
+  "stars": 57368,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "twentyhq/twenty",
+  "stars": 56832,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "remix-run/react-router",
+  "stars": 56572,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "laurent22/joplin",
+  "stars": 56389,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "gatsbyjs/gatsby",
+  "stars": 55941,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "azl397985856/leetcode",
+  "stars": 55745,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "agalwood/Motrix",
+  "stars": 55514,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "FlowiseAI/Flowise",
+  "stars": 55464,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "TryGhost/Ghost",
+  "stars": 55310,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuejs/core",
+  "stars": 54399,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jamiepine/voicebox",
+  "stars": 53896,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mozilla/pdf.js",
+  "stars": 53877,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "lyswhut/lx-music-desktop",
+  "stars": 53651,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "chinese-poetry/chinese-poetry",
+  "stars": 53427,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ionic-team/ionic-framework",
+  "stars": 52665,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "prettier/prettier",
+  "stars": 52272,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "expo/expo",
+  "stars": 52268,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "poteto/hiring-without-whiteboards",
+  "stars": 52128,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "stars": 52051,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "CherryHQ/cherry-studio",
+  "stars": 51836,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "DefinitelyTyped/DefinitelyTyped",
+  "stars": 51441,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "justjavac/wechat-miniapp-radar",
+  "stars": 51189,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Semantic-Org/Semantic-UI",
+  "stars": 51019,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "cypress-io/cypress",
+  "stars": 51018,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "coreyhaines31/marketingskills",
+  "stars": 50477,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "tldraw/tldraw",
+  "stars": 50375,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "heygen-com/hyperframes",
+  "stars": 50365,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "chenglou/pretext",
+  "stars": 50362,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "TanStack/query",
+  "stars": 50303,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "NARKOZ/hacker-scripts",
+  "stars": 49824,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "bigskysoftware/htmx",
+  "stars": 49449,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "upscayl/upscayl",
+  "stars": 49275,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "moeru-ai/airi",
+  "stars": 49164,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "algorithm-visualizer/algorithm-visualizer",
+  "stars": 48730,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "slidevjs/slidev",
+  "stars": 48685,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "iamkun/dayjs",
+  "stars": 48662,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "type-challenges/type-challenges",
+  "stars": 48507,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "calcom/cal.diy",
+  "stars": 48495,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pixijs/pixijs",
+  "stars": 48167,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "KeygraphHQ/shannon",
+  "stars": 48040,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "moment/moment",
+  "stars": 47911,
+  "branch": "develop",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "prisma/orm",
+  "stars": 47608,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "DavidHDev/react-bits",
+  "stars": 47376,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "abhigyanpatwari/GitNexus",
+  "stars": 47363,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "slab/quill",
+  "stars": 47346,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "typescript-cheatsheets/react",
+  "stars": 47097,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "usebruno/bruno",
+  "stars": 46974,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "serverless/serverless",
+  "stars": 46916,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Asabeneh/30-Days-Of-JavaScript",
+  "stars": 46815,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/monaco-editor",
+  "stars": 46747,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "LeCoupa/awesome-cheatsheets",
+  "stars": 46472,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "siyuan-note/siyuan",
+  "stars": 46377,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "DIYgod/RSSHub",
+  "stars": 46196,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "RocketChat/Rocket.Chat",
+  "stars": 46121,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "google/zx",
+  "stars": 45746,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Leaflet/Leaflet",
+  "stars": 45620,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "fastapi/full-stack-fastapi-template",
+  "stars": 45573,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jestjs/jest",
+  "stars": 45455,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "GitSquared/edex-ui",
+  "stars": 45043,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "react-hook-form/react-hook-form",
+  "stars": 44854,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "sudheerj/reactjs-interview-questions",
+  "stars": 44808,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "meteor/meteor",
+  "stars": 44805,
+  "branch": "devel",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "payloadcms/payload",
+  "stars": 44756,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel/hyper",
+  "stars": 44730,
+  "branch": "canary",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "NaiboWang/EasySpider",
+  "stars": 44552,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "janhq/jan",
+  "stars": 44484,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "AykutSarac/jsoncrack.com",
+  "stars": 44418,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "parcel-bundler/parcel",
+  "stars": 44024,
+  "branch": "v2",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "yangshun/front-end-interview-handbook",
+  "stars": 44010,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "streamich/react-use",
+  "stars": 44008,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "babel/babel",
+  "stars": 44000,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "colinhacks/zod",
+  "stars": 43952,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mifi/lossless-cut",
+  "stars": 43790,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "danny-avila/LibreChat",
+  "stars": 43778,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "HeyPuter/puter",
+  "stars": 43535,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Unitech/pm2",
+  "stars": 43292,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "FuelLabs/fuels-ts",
+  "stars": 42980,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "reactive-resume/reactive-resume",
+  "stars": 42966,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "saadeghi/daisyui",
+  "stars": 42389,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nolimits4web/swiper",
+  "stars": 41908,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "chatboxai/chatbox",
+  "stars": 41778,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "hexojs/hexo",
+  "stars": 41769,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "dcloudio/uni-app",
+  "stars": 41610,
+  "branch": "uni-app-x",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "yarnpkg/yarn",
+  "stars": 41477,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "goabstract/Awesome-Design-Tools",
+  "stars": 41214,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nwjs/nw.js",
+  "stars": 41166,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "styled-components/styled-components",
+  "stars": 41104,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuetifyjs/vuetify",
+  "stars": 41039,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ToolJet/ToolJet",
+  "stars": 40927,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "appsmithorg/appsmith",
+  "stars": 40880,
+  "branch": "release",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "remoteintech/remote-jobs",
+  "stars": 40822,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "PatrickJS/awesome-cursorrules",
+  "stars": 40789,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "chakra-ui/chakra-ui",
+  "stars": 40642,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "trpc/trpc",
+  "stars": 40609,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "outline/outline",
+  "stars": 40550,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "phaserjs/phaser",
+  "stars": 40317,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Kong/insomnia",
+  "stars": 40018,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "novuhq/novu",
+  "stars": 39994,
+  "branch": "next",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "siddharthvaddem/openscreen",
+  "stars": 39955,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "videojs/video.js",
+  "stars": 39881,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vadimdemedes/ink",
+  "stars": 39871,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "drawdb-io/drawdb",
+  "stars": 39554,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "stars": 39186,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mattermost/mattermost",
+  "stars": 39065,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "github/awesome-copilot",
+  "stars": 39037,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "bytedance/UI-TARS-desktop",
+  "stars": 39000,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "RSSNext/Folo",
+  "stars": 38968,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "lfnovo/open-notebook",
+  "stars": 38933,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "preactjs/preact",
+  "stars": 38868,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "umami-software/umami",
+  "stars": 38844,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Dogfalo/materialize",
+  "stars": 38803,
+  "branch": "v1-dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ant-design/ant-design-pro",
+  "stars": 38773,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "naptha/tesseract.js",
+  "stars": 38705,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "portainer/portainer",
+  "stars": 38507,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ueberdosis/tiptap",
+  "stars": 38399,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "xyflow/xyflow",
+  "stars": 38386,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "impress/impress.js",
+  "stars": 38169,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "directus/directus",
+  "stars": 37926,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "TriliumNext/Trilium",
+  "stars": 37857,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "denysdovhan/wtfjs",
+  "stars": 37680,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "NervJS/taro",
+  "stars": 37675,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ZuodaoTech/everyone-can-use-english",
+  "stars": 37542,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "CopilotKit/CopilotKit",
+  "stars": 37373,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Dokploy/dokploy",
+  "stars": 37311,
+  "branch": "canary",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "musistudio/claude-code-router",
+  "stars": 37252,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "markedjs/marked",
+  "stars": 37145,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/playwright-mcp",
+  "stars": 37145,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "fastify/fastify",
+  "stars": 37144,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Crosstalk-Solutions/project-nomad",
+  "stars": 37113,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "THU-MAIC/OpenMAIC",
+  "stars": 37092,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "AdguardTeam/AdGuardHome",
+  "stars": 36924,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "songquanpeng/one-api",
+  "stars": 36904,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ItzCrazyKns/Vane",
+  "stars": 36881,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "typeorm/typeorm",
+  "stars": 36652,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "date-fns/date-fns",
+  "stars": 36649,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "inkonchain/ink-kit",
+  "stars": 36358,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "medusajs/medusa",
+  "stars": 36320,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "reworkd/AgentGPT",
+  "stars": 36302,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "carbon-app/carbon",
+  "stars": 36104,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "lerna/lerna",
+  "stars": 36055,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "solidjs/solid",
+  "stars": 36037,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "continuedev/continue",
+  "stars": 35920,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "blakeblackshear/frigate",
+  "stars": 35912,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "gitroomhq/postiz-app",
+  "stars": 35893,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "DayuanJiang/next-ai-draw-io",
+  "stars": 35879,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "alan2207/bulletproof-react",
+  "stars": 35850,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "gchq/CyberChef",
+  "stars": 35848,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "drizzle-team/drizzle-orm",
+  "stars": 35776,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+  "stars": 35775,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "koajs/koa",
+  "stars": 35685,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "refinedev/refine",
+  "stars": 35678,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "alvarotrigo/fullPage.js",
+  "stars": 35393,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "typicode/husky",
+  "stars": 35315,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nativefier/nativefier",
+  "stars": 35270,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "sahat/hackathon-starter",
+  "stars": 35253,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "agentscope-ai/QwenPaw",
+  "stars": 34975,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "lissy93/web-check",
+  "stars": 34821,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "qishibo/AnotherRedisDesktopManager",
+  "stars": 34762,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "linshenkx/prompt-optimizer",
+  "stars": 34758,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "stars": 34747,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "langfuse/langfuse",
+  "stars": 34652,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "JCodesMore/ai-website-cloner-template",
+  "stars": 34452,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "backstage/backstage",
+  "stars": 34418,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "balena-io/etcher",
+  "stars": 34348,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jaredpalmer/formik",
+  "stars": 34318,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "TheAlgorithms/JavaScript",
+  "stars": 34258,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "NginxProxyManager/nginx-proxy-manager",
+  "stars": 34142,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "zenorocha/clipboard.js",
+  "stars": 34115,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "pcottle/learnGitBranching",
+  "stars": 34032,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "atlassian/react-beautiful-dnd",
+  "stars": 33929,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "motiondivision/motion",
+  "stars": 33616,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pear-devs/pear-desktop",
+  "stars": 33493,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "lutzroeder/netron",
+  "stars": 33491,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "SillyTavern/SillyTavern",
+  "stars": 33393,
+  "branch": "release",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "remix-run/remix",
+  "stars": 33354,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mckaywrigley/chatbot-ui",
+  "stars": 33347,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Gitlawb/openclaude",
+  "stars": 33322,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "openai/codex-plugin-cc",
+  "stars": 33188,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Yeachan-Heo/oh-my-codex",
+  "stars": 33167,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "immutable-js/immutable-js",
+  "stars": 33029,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "adobe/brackets",
+  "stars": 32996,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "gulpjs/gulp",
+  "stars": 32935,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "maboloshi/github-chinese",
+  "stars": 32871,
+  "branch": "gh-pages",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "iOfficeAI/AionUi",
+  "stars": 32865,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "floating-ui/floating-ui",
+  "stars": 32746,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "lovell/sharp",
+  "stars": 32677,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "gethomepage/homepage",
+  "stars": 32647,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel/swr",
+  "stars": 32477,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pmndrs/react-three-fiber",
+  "stars": 32311,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "honojs/hono",
+  "stars": 32199,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "refined-github/refined-github",
+  "stars": 32168,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "hasura/graphql-engine",
+  "stars": 32115,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "SigNoz/signoz",
+  "stars": 32107,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "airbnb/lottie-web",
+  "stars": 32097,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "freestylefly/awesome-gpt-image-2",
+  "stars": 32093,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "codex-team/editor.js",
+  "stars": 31947,
+  "branch": "next",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "niklasvh/html2canvas",
+  "stars": 31922,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ianstormtaylor/slate",
+  "stars": 31748,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mantinedev/mantine",
+  "stars": 31721,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel-labs/skills",
+  "stars": 31713,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ReactiveX/rxjs",
+  "stars": 31697,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "docsifyjs/docsify",
+  "stars": 31507,
+  "branch": "develop",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "fabricjs/fabric.js",
+  "stars": 31442,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "webtorrent/webtorrent",
+  "stars": 31394,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "parallax/jsPDF",
+  "stars": 31298,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "can1357/oh-my-pi",
+  "stars": 31284,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "shardeum/shardeum",
+  "stars": 31240,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
+  "stars": 31230,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel-labs/agent-skills",
+  "stars": 31224,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "SortableJS/Sortable",
+  "stars": 31183,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ascoders/weekly",
+  "stars": 31158,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "transloadit/uppy",
+  "stars": 30974,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nanocoai/nanoclaw",
+  "stars": 30779,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "GoogleChrome/lighthouse",
+  "stars": 30773,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "heroui-inc/heroui",
+  "stars": 30686,
+  "branch": "v3",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "layui/layui",
+  "stars": 30573,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "the1812/Bilibili-Evolved",
+  "stars": 30496,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "cheeriojs/cheerio",
+  "stars": 30484,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "sequelize/sequelize",
+  "stars": 30363,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "VincentGarreau/particles.js",
+  "stars": 30208,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ComposioHQ/composio",
+  "stars": 30189,
+  "branch": "next",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "statelyai/xstate",
+  "stars": 30116,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "sampotts/plyr",
+  "stars": 29998,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "garrytan/gbrain",
+  "stars": 29968,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "better-auth/better-auth",
+  "stars": 29958,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jitsi/jitsi-meet",
+  "stars": 29922,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "foundation/yeti",
+  "stars": 29788,
+  "branch": "develop",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "tobi/qmd",
+  "stars": 29762,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "supermemoryai/supermemory",
+  "stars": 29680,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "labring/FastGPT",
+  "stars": 29658,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "simstudioai/sim",
+  "stars": 29642,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "aosabook/500lines",
+  "stars": 29576,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuejs/vue-cli",
+  "stars": 29541,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "react-boilerplate/react-boilerplate",
+  "stars": 29478,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "elsewhencode/project-guidelines",
+  "stars": 29434,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "standard/standard",
+  "stars": 29430,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "slymnoyann/hey.xyz",
+  "stars": 29372,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "zarazhangrui/frontend-slides",
+  "stars": 29363,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nrwl/nx",
+  "stars": 29335,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jackwener/OpenCLI",
+  "stars": 29325,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Infisical/infisical",
+  "stars": 29274,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pmndrs/react-spring",
+  "stars": 29150,
+  "branch": "next",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "t3-oss/create-t3-app",
+  "stars": 29117,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "alibaba/page-agent",
+  "stars": 29079,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "karakeep-app/karakeep",
+  "stars": 29060,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "viatsko/awesome-vscode",
+  "stars": 29038,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "webadderallorg/Recordly",
+  "stars": 29038,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "GitbookIO/gitbook",
+  "stars": 29029,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "swagger-api/swagger-ui",
+  "stars": 29010,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "immerjs/immer",
+  "stars": 28980,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "postcss/postcss",
+  "stars": 28973,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "tastejs/todomvc",
+  "stars": 28957,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "decolua/9router",
+  "stars": 28894,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "actualbudget/actual",
+  "stars": 28887,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "voideditor/void",
+  "stars": 28802,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "tailwindlabs/headlessui",
+  "stars": 28740,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Anil-matcha/Open-Generative-AI",
+  "stars": 28570,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "jamiebuilds/the-super-tiny-compiler",
+  "stars": 28564,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Z-Siqi/Clash-for-Windows_Chinese",
+  "stars": 28560,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "kenwheeler/slick",
+  "stars": 28546,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "rohitg00/agentmemory",
+  "stars": 28477,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "fingerprintjs/fingerprintjs",
+  "stars": 28458,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "TanStack/table",
+  "stars": 28432,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "greensock/GSAP",
+  "stars": 28427,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "firecrawl/open-lovable",
+  "stars": 28419,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "fanmingming/live",
+  "stars": 28415,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "tj/commander.js",
+  "stars": 28393,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nextauthjs/next-auth",
+  "stars": 28365,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "yamadashy/repomix",
+  "stars": 28364,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuejs/vuex",
+  "stars": 28312,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Budibase/budibase",
+  "stars": 28284,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "HumanSignal/label-studio",
+  "stars": 28269,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "digitalocean/nginxconfig.io",
+  "stars": 28261,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mobxjs/mobx",
+  "stars": 28207,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "koodo-reader/koodo-reader",
+  "stars": 28199,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "caolan/async",
+  "stars": 28131,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "jashkenas/backbone",
+  "stars": 28102,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mastra-ai/mastra",
+  "stars": 28078,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "eyaltoledano/claude-task-master",
+  "stars": 28076,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "michalsnik/aos",
+  "stars": 28054,
+  "branch": "next",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "JedWatson/react-select",
+  "stars": 28027,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jarrodwatts/claude-hud",
+  "stars": 27988,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "google-labs-code/design.md",
+  "stars": 27933,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "QwenLM/qwen-code",
+  "stars": 27884,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "blackmatrix7/ios_rule_script",
+  "stars": 27882,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "element-plus/element-plus",
+  "stars": 27762,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "YMFE/yapi",
+  "stars": 27718,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "hcengineering/platform",
+  "stars": 27690,
+  "branch": "develop",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "sudheerj/javascript-interview-questions",
+  "stars": 27651,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "virattt/dexter",
+  "stars": 27601,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "recharts/recharts",
+  "stars": 27559,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "eslint/eslint",
+  "stars": 27508,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Asabeneh/30-Days-Of-React",
+  "stars": 27486,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Automattic/mongoose",
+  "stars": 27471,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Advanced-Frontend/Daily-Interview-Question",
+  "stars": 27374,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "jashkenas/underscore",
+  "stars": 27320,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Kilo-Org/kilocode",
+  "stars": 27317,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "codemirror/codemirror5",
+  "stars": 27231,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "quasarframework/quasar",
+  "stars": 27210,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Molunerfinn/PicGo",
+  "stars": 27198,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "badges/shields",
+  "stars": 27190,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ajaxorg/ace",
+  "stars": 27144,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "bvaughn/react-virtualized",
+  "stars": 27075,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "angular/angular-cli",
+  "stars": 27022,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "ai/nanoid",
+  "stars": 26972,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "philc/vimium",
+  "stars": 26960,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "marmelab/react-admin",
+  "stars": 26935,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "wg-easy/wg-easy",
+  "stars": 26934,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "maotoumao/MusicFree",
+  "stars": 26895,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "discordjs/discord.js",
+  "stars": 26823,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "anywhere-labs/dsh-desktop",
+  "stars": 26790,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "TencentCloud/TencentDB-Agent-Memory",
+  "stars": 26774,
+  "branch": "feat/server_team",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nilbuild/driver.js",
+  "stars": 26769,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel/ai",
+  "stars": 26767,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "onlook-dev/onlook",
+  "stars": 26742,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "OI-wiki/OI-wiki",
+  "stars": 26684,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "remy/nodemon",
+  "stars": 26665,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "4ian/GDevelop",
+  "stars": 26553,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mattermost-community/focalboard",
+  "stars": 26464,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "mihomo-party-org/clash-party",
+  "stars": 26431,
+  "branch": "smart_core",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "tashfeenahmed/freellmapi",
+  "stars": 26428,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "rstacruz/nprogress",
+  "stars": 26368,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "rollup/rollup",
+  "stars": 26308,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "anomalyco/sst",
+  "stars": 26297,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "haizlin/fe-interview",
+  "stars": 26268,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "GrapesJS/grapesjs",
+  "stars": 26237,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "BabylonJS/Babylon.js",
+  "stars": 26075,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "feathericons/feather",
+  "stars": 25994,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "yikart/AiToEarn",
+  "stars": 25940,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "JimLiu/baoyu-skills",
+  "stars": 25928,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Redocly/redoc",
+  "stars": 25908,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "select2/select2",
+  "stars": 25903,
+  "branch": "develop",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "GoogleChromeLabs/squoosh",
+  "stars": 25887,
+  "branch": "dev",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "humanlayer/12-factor-agents",
+  "stars": 25868,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "simple-icons/simple-icons",
+  "stars": 25860,
+  "branch": "develop",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "JakeChampion/fetch",
+  "stars": 25852,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "zhaoolee/ChromeAppHeroes",
+  "stars": 25823,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "localForage/localForage",
+  "stars": 25814,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "apify/crawlee",
+  "stars": 25809,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "Modernizr/Modernizr",
+  "stars": 25682,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "akveo/ngx-admin",
+  "stars": 25681,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "NativeScript/NativeScript",
+  "stars": 25645,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "zloirock/core-js",
+  "stars": 25533,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "request/request",
+  "stars": 25504,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "homebridge/homebridge",
+  "stars": 25494,
+  "branch": "latest",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "toon-format/toon",
+  "stars": 25382,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "goldfire/howler.js",
+  "stars": 25346,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "dimsemenov/PhotoSwipe",
+  "stars": 25256,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "withfig/autocomplete",
+  "stars": 25218,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "responsively-org/responsively-app",
+  "stars": 25170,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "neoclide/coc.nvim",
+  "stars": 25156,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "promptfoo/promptfoo",
+  "stars": 25145,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "EveryInc/compound-engineering-plugin",
+  "stars": 25094,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "angular/components",
+  "stars": 25044,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "highlightjs/highlight.js",
+  "stars": 24992,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nextai-translator/nextai-translator",
+  "stars": 24981,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "dubinc/dub",
+  "stars": 24748,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nylas/nylas-mail",
+  "stars": 24731,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "vuejs/devtools-v6",
+  "stars": 24693,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "goldbergyoni/javascript-testing-best-practices",
+  "stars": 24619,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "lucide-icons/lucide",
+  "stars": 24527,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "winstonjs/winston",
+  "stars": 24521,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "spicetify/cli",
+  "stars": 24518,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Max-Eee/NeoPass",
+  "stars": 24511,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "react-navigation/react-navigation",
+  "stars": 24503,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "activepieces/activepieces",
+  "stars": 24471,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "rahuldkjain/github-profile-readme-generator",
+  "stars": 24440,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "agentsmd/agents.md",
+  "stars": 24393,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "youzan/vant",
+  "stars": 24382,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "readest/readest",
+  "stars": 24357,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "louislam/dockge",
+  "stars": 24351,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "vercel/pkg",
+  "stars": 24342,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "hammerjs/hammer.js",
+  "stars": 24340,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "RooCodeInc/Roo-Code",
+  "stars": 24304,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "browserbase/stagehand",
+  "stars": 24289,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "electron-react-boilerplate/electron-react-boilerplate",
+  "stars": 24253,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "felixrieseberg/windows95",
+  "stars": 24230,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "nocobase/nocobase",
+  "stars": 24227,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "docmirror/dev-sidecar",
+  "stars": 24076,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ramda/ramda",
+  "stars": 24048,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "qeeqbox/social-analyzer",
+  "stars": 24042,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "semantic-release/semantic-release",
+  "stars": 24037,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "processing/p5.js",
+  "stars": 23991,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "pascalorg/editor",
+  "stars": 23951,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "MagicMirrorOrg/MagicMirror",
+  "stars": 23873,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "facebook/lexical",
+  "stars": 23859,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "MostlyAdequate/mostly-adequate-guide",
+  "stars": 23822,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "tailwindlabs/heroicons",
+  "stars": 23803,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "slopus/happy",
+  "stars": 23792,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "validatorjs/validator.js",
+  "stars": 23735,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "pure-css/pure",
+  "stars": 23723,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "kriasoft/react-starter-kit",
+  "stars": 23682,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "jquense/yup",
+  "stars": 23666,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "node-red/node-red",
+  "stars": 23653,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "beekeeper-studio/beekeeper-studio",
+  "stars": 23613,
+  "branch": "master",
+  "lang": "TypeScript",
+  "archived": false
+ },
+ {
+  "full_name": "pedronauck/docz",
+  "stars": 23572,
+  "branch": "main",
+  "lang": "TypeScript",
+  "archived": true
+ },
+ {
+  "full_name": "jaredhanson/passport",
+  "stars": 23530,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "copy/v86",
+  "stars": 23485,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "chalk/chalk",
+  "stars": 23316,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "shimohq/chinese-programmer-wrong-pronunciation",
+  "stars": 23307,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ovity/octotree",
+  "stars": 23246,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "bilibili/flv.js",
+  "stars": 23186,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "youhunwl/TVAPP",
+  "stars": 23162,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "benweet/stackedit",
+  "stars": 23094,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mochajs/mocha",
+  "stars": 22896,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "websockets/ws",
+  "stars": 22803,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "yjs/yjs",
+  "stars": 22798,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "balderdashy/sails",
+  "stars": 22798,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "be5invis/Iosevka",
+  "stars": 22752,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuejs/vuepress",
+  "stars": 22731,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "svg/svgo",
+  "stars": 22672,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "js-cookie/js-cookie",
+  "stars": 22586,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "facebookarchive/draft-js",
+  "stars": 22585,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "typicode/lowdb",
+  "stars": 22581,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "wwebjs/whatsapp-web.js",
+  "stars": 22569,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Tencent/wepy",
+  "stars": 22539,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "jlmakes/scrollreveal",
+  "stars": 22477,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "localtunnel/localtunnel",
+  "stars": 22471,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "redux-saga/redux-saga",
+  "stars": 22418,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "gildas-lormeau/SingleFile",
+  "stars": 22401,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "postcss/autoprefixer",
+  "stars": 22229,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "necolas/react-native-web",
+  "stars": 22136,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "bevacqua/dragula",
+  "stars": 22129,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "handsontable/handsontable",
+  "stars": 22042,
+  "branch": "develop",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "eligrey/FileSaver.js",
+  "stars": 21980,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "chenglou/react-motion",
+  "stars": 21909,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "xifangczy/cat-catch",
+  "stars": 21893,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "pugjs/pug",
+  "stars": 21846,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "EastWorld/wechat-app-mall",
+  "stars": 21802,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "MobSF/Mobile-Security-Framework-MobSF",
+  "stars": 21777,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "git-tips/tips",
+  "stars": 21722,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "tabler/tabler-icons",
+  "stars": 21691,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "jsdom/jsdom",
+  "stars": 21682,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "ruanyf/es6tutorial",
+  "stars": 21420,
+  "branch": "gh-pages",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "parse-community/parse-server",
+  "stars": 21412,
+  "branch": "alpha",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "liriliri/eruda",
+  "stars": 21187,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "hapijs/joi",
+  "stars": 21174,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "wekan/wekan",
+  "stars": 21083,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "modood/Administrative-divisions-of-China",
+  "stars": 20965,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "avajs/ava",
+  "stars": 20827,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "sveltejs/kit",
+  "stars": 20808,
+  "branch": "version-3",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "paularmstrong/normalizr",
+  "stars": 20792,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "chokcoco/iCSS",
+  "stars": 20667,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "SortableJS/Vue.Draggable",
+  "stars": 20582,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "motdotla/dotenv",
+  "stars": 20537,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "petkaantonov/bluebird",
+  "stars": 20485,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "krisk/Fuse",
+  "stars": 20478,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "hmjz100/LinkSwift",
+  "stars": 20403,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "PanJiaChen/vue-admin-template",
+  "stars": 20377,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "knex/knex",
+  "stars": 20342,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Meituan-Dianping/mpvue",
+  "stars": 20246,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Popmotion/popmotion",
+  "stars": 20158,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "verekia/js-stack-from-scratch",
+  "stars": 20136,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "camsong/You-Dont-Need-jQuery",
+  "stars": 20131,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "dailydotdev/daily",
+  "stars": 20068,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "basecamp/trix",
+  "stars": 20008,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "liyupi/ai-guide",
+  "stars": 19991,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "11ty/buildawesome",
+  "stars": 19911,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "enzymejs/enzyme",
+  "stars": 19813,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mdx-js/mdx",
+  "stars": 19788,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "segment-boneyard/nightmare",
+  "stars": 19768,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "SnapDrop/snapdrop",
+  "stars": 19730,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "testing-library/react-testing-library",
+  "stars": 19652,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "nuysoft/Mock",
+  "stars": 19575,
+  "branch": "refactoring",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "pot-app/pot-desktop",
+  "stars": 19435,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "facebookexperimental/Recoil",
+  "stars": 19425,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "datawhalechina/easy-vibe",
+  "stars": 19419,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "decaporg/decap-cms",
+  "stars": 19380,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Reactive-Extensions/RxJS",
+  "stars": 19331,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": true
+ },
+ {
+  "full_name": "FredKSchott/snowpack",
+  "stars": 19287,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "hyperapp/hyperapp",
+  "stars": 19196,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "you-dont-need/You-Dont-Need-Lodash-Underscore",
+  "stars": 19133,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "amark/gun",
+  "stars": 19132,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vaxilu/x-ui",
+  "stars": 19083,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "browsh-org/browsh",
+  "stars": 19043,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "chaozh/awesome-blockchain-cn",
+  "stars": 18948,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "adam-golab/react-developer-roadmap",
+  "stars": 18916,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "bgstaal/multipleWindow3dScene",
+  "stars": 18916,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "vuejs/vue-router",
+  "stars": 18866,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "HelloZeroNet/ZeroNet",
+  "stars": 18769,
+  "branch": "py3",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "framework7io/framework7",
+  "stars": 18758,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "alyssaxuu/screenity",
+  "stars": 18692,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "handlebars-lang/handlebars.js",
+  "stars": 18673,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "hemanth/functional-programming-jargon",
+  "stars": 18660,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "mysqljs/mysql",
+  "stars": 18618,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "Shopify/draggable",
+  "stars": 18475,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "youzan/vant-weapp",
+  "stars": 18446,
+  "branch": "dev",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "liabru/matter-js",
+  "stars": 18408,
+  "branch": "master",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "enyo/dropzone",
+  "stars": 18402,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ },
+ {
+  "full_name": "plotly/plotly.js",
+  "stars": 18333,
+  "branch": "main",
+  "lang": "JavaScript",
+  "archived": false
+ }
+]
