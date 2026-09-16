@@ -164,5 +164,9 @@ The job needs `pull-requests: write` permission for the comment.
 
 ## Contributing and governance
 
-One pull request = one sourced entry. See [CONTRIBUTING.md](CONTRIBUTING.md)
-and [GOVERNANCE.md](GOVERNANCE.md). MIT licence.
+One pull request = one sourced entry. See [CONTRIBUTING.md](CONTRIBUTING.md). MIT licence.
+
+busfactor currently has **one maintainer**, which is a bus factor of 1. [GOVERNANCE.md](GOVERNANCE.md)
+says what that means in practice: a second maintainer is wanted (three merged entries and you are in),
+the project is built to run on one hour a week, and if the maintainer goes silent for 90 days the most
+active contributor can take the project over. That clause is written consent, not a hope.
