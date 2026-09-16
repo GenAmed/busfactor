@@ -3,3 +3,4 @@ report.json
 card.png
 *.log
 .DS_Store
+launch/
