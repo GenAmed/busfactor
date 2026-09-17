@@ -38,3 +38,23 @@ jobs:
           node src/cli.js examples/package-lock.json --md --offline >> "$GITHUB_STEP_SUMMARY"
           node src/cli.js examples/package-lock.json --svg --offline --out card.svg
           test -s report.json && test -s card.svg
+
+  # The composite action is what other repositories actually consume, so it gets
+  # exercised on every push: it installs the published package from npm and runs
+  # it here. This job is what catches a stale package name or a broken step.
+  action:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run the action on this repository
+        id: bf
+        uses: ./
+        with:
+          path: examples/package-lock.json
+      - name: The action must have produced both files
+        run: |
+          test -s "${{ steps.bf.outputs.markdown-file }}"
+          test -s "${{ steps.bf.outputs.json-file }}"

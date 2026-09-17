@@ -1,6 +1,6 @@
 # Sample scan output
 
-Produced by `npx busfactor examples/package-lock.json` on 2026-09-15, against the
+Produced by `npx @genamed/busfactor examples/package-lock.json` on 2026-09-15, against the
 lockfile in this folder (a small app pulling in axios, express, jest, lodash,
 moment, react, react-dom and webpack: 410 packages in total).
 

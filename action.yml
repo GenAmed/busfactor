@@ -5,6 +5,11 @@ name: busfactor
 description: "Which humans does your project actually depend on? Scans the lockfile and reports dead, dormant and single-publisher dependencies."
 author: GenAmed
 
+# Required to list this action on the GitHub Marketplace.
+branding:
+  icon: users
+  color: blue
+
 inputs:
   path:
     description: "Folder containing the lockfile, or the lockfile itself."
@@ -43,11 +48,11 @@ runs:
         mkdir -p "$out"
         # Full JSON first (this is the only network round), then the card is
         # produced from the cache without touching the network again.
-        npx --yes "busfactor@${BF_VERSION}" "$BF_PATH" --json --out "$out/report.json"
-        npx --yes "busfactor@${BF_VERSION}" "$BF_PATH" --md --offline --out "$out/card.md"
+        npx --yes "@genamed/busfactor@${BF_VERSION}" "$BF_PATH" --json --out "$out/report.json"
+        npx --yes "@genamed/busfactor@${BF_VERSION}" "$BF_PATH" --md --offline --out "$out/card.md"
         cat "$out/card.md" >> "$GITHUB_STEP_SUMMARY"
         echo "markdown-file=$out/card.md" >> "$GITHUB_OUTPUT"
         echo "json-file=$out/report.json" >> "$GITHUB_OUTPUT"
         if [ -n "$BF_FAIL_ON" ]; then
-          npx --yes "busfactor@${BF_VERSION}" "$BF_PATH" --offline --fail-on "$BF_FAIL_ON" > /dev/null
+          npx --yes "@genamed/busfactor@${BF_VERSION}" "$BF_PATH" --offline --fail-on "$BF_FAIL_ON" > /dev/null
         fi
